@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: #785E2F !important;
+    color: rgb(252, 252, 252) !important;
+}
+h1 , h2 , h3 {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: semi-bold;
+    font-style: normal;
+}
+ol {
+    color: rgba(255, 1, 1, 0.932);
+}
+img {
+    border-radius: 10px;
+    filter: drop-shadow(0 0 0.75rem rgb(39, 39, 39));
+}
+.mandarine {
+    color: orange;
+}
+#resultat h3{
+    color: red;
+}
